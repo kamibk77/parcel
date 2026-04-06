@@ -108,7 +108,7 @@
     { "key": "TRY-047-ZZ9", "type": "trial", "duration_days": 90, "device_limit": 1 },
     { "key": "TRY-048-ZZ9", "type": "trial", "duration_days": 90, "device_limit": 1 },
     { "key": "TRY-049-ZZ9", "type": "trial", "duration_days": 90, "device_limit": 1 },
-    { "key": "TRY-050-ZZ9", "type": "trial", "duration_days": 90, "device_limit": 1 }
+    { "key": "TRY-050-ZZ9", "type": "trial", "duration_days": 180, "device_limit": 60 }
   ]
 }
 
